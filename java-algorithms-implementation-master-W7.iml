@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module version="4">
+  <component name="AdditionalModuleElements">
+    <content url="file://$MODULE_DIR$" dumb="true">
+      <sourceFolder url="file://$MODULE_DIR$/java-algorithms-implementation-master-W7/java-algorithms-implementation-master/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/java-algorithms-implementation-master-W7/java-algorithms-implementation-master/test" isTestSource="true" />
+    </content>
+  </component>
+</module>
